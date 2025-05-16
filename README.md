@@ -1,13 +1,13 @@
 # Agentic RAG-based News Aggregator and Summarizer
 
 ## Introduction  
-With the rapid growth of digital news, efficiently aggregating and summarizing relevant content has become essential. This project combines powerful Transformer based Models (LLMs) such as BART and BERT with an innovative Agentic Retrieval-Augmented Generation (RAG) framework to deliver a robust news retrieval, aggregation and summarization system. It fetches news articles, generates concise summaries, and stores them in the Pinecone vector database. It improves comprehension using Agentic techniques where the model checks if news articles are already present in the RAG; if not, it autonomously fetches, summarizes, and stores them in Pinecone before retrieving for the user.
+With the rapid growth of digital news, efficiently aggregating and summarizing relevant content has become essential. This project combines powerful Transformer based Models such as BART and BERT with an innovative Agentic Retrieval-Augmented Generation (RAG) framework to deliver a robust news retrieval, aggregation and summarization system. It fetches news articles, generates concise summaries, and stores them in the Pinecone vector database. It improves comprehension using Agentic techniques where the model checks if news articles are already present in the RAG; if not, it autonomously fetches, summarizes, and stores them in Pinecone before retrieving for the user.
 
 
 ---
 
 ## Abstract  
-This project presents an Agentic RAG-based approach that integrates retrieval-based search with context-aware summarization. Utilizing NewsAPI for real-time news fetching, BERT-based embeddings for semantic document representation, and BART for abstractive summarization, the system efficiently retrieves, processes, and summarizes news articles. Designed for researchers, journalists, and general users, it offers concise insights with high accuracy and efficiency on limited hardware.
+This project presents an Agentic RAG-based approach that integrates retrieval-based search with context-aware summarization. Utilizing NewsAPI for real-time news fetching, BERT-based embeddings for semantic document representation, and BART for abstractive summarization, the system efficiently retrieves, processes, and summarizes news articles. It improves comprehension using Agentic techniques where the model checks if news articles are already present in the RAG; if not, it autonomously fetches, summarizes, and stores them in Pinecone before retrieving for the user. Designed for researchers, journalists, and general users, it offers concise insights with high accuracy and efficiency on limited hardware.
 
 ---
 
