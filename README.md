@@ -1,7 +1,7 @@
-# Agentic RAG-based News Retriever and Summarizer
+# Agentic RAG-based News Aggregator and Summarizer
 
 ## Introduction  
-With the rapid growth of digital news, efficiently retrieving and summarizing relevant content has become essential. This project combines powerful Transformer based Models (LLMs) such as BART and BERT with an innovative Agentic Retrieval-Augmented Generation (RAG) framework to deliver a robust news retrieval and summarization system. It fetches news articles, generates concise summaries, and stores them in the Pinecone vector database. It improves comprehension using Agentic techniques where the model checks if news articles are already present in the RAG; if not, it autonomously fetches, summarizes, and stores them in Pinecone before retrieving for the user.
+With the rapid growth of digital news, efficiently aggregating and summarizing relevant content has become essential. This project combines powerful Transformer based Models (LLMs) such as BART and BERT with an innovative Agentic Retrieval-Augmented Generation (RAG) framework to deliver a robust news retrieval, aggregation and summarization system. It fetches news articles, generates concise summaries, and stores them in the Pinecone vector database. It improves comprehension using Agentic techniques where the model checks if news articles are already present in the RAG; if not, it autonomously fetches, summarizes, and stores them in Pinecone before retrieving for the user.
 
 
 ---
