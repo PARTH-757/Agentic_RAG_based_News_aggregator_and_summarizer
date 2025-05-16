@@ -1,0 +1,44 @@
+[
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "India closes main border crossing with Pakistan after Kashmir attack",
+        "description": "India also cancels some visas held by Pakistanis and expels diplomats as tensions rise following the killing of tourists.",
+        "url": "https://www.bbc.com/news/articles/ce8g2njm2d2o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b441/live/43013bc0-2067-11f0-9c65-a5c3dc449bf3.jpg",
+        "publishedAt": "2025-04-23 17:44:10+00:00",
+        "content": "India has announced measures targeting Pakistan, a day after 26 people were killed by gunmen in an attack in Indian-administered Kashmir. \r\nThey include the closure of the main border crossing linkin… [+2316 chars]",
+        "topic": "General"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Watch: Ground report from the site of air strikes in Pakistan's Muridke",
+        "description": "The building, which is located in a densely-populated area, remains cordoned off by security forces.",
+        "url": "https://www.bbc.com/news/videos/c9djd6442n1o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5326/live/32ea1fb0-2b14-11f0-b26b-ab62c890638b.jpg",
+        "publishedAt": "2025-05-07 07:46:11+00:00",
+        "content": "BBC Urdu's Umer Draz Nangiana reports from outside a building complex in Pakistan's Muridke, which was targeted by India in its overnight air strikes. The building, which lies in a densely-populated … [+276 chars]",
+        "topic": "General"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Watch: Airports closed, eerie silence in Indian-administered Kashmir",
+        "description": "In Srinagar in Indian-administered Kashmir, a road, normally busy with tourists and travellers, lies deserted.",
+        "url": "https://www.bbc.com/news/videos/clyqy0q0ezmo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c1cb/live/2c3c7150-2b1d-11f0-8ff1-59f5dcf8e9f5.jpg",
+        "publishedAt": "2025-05-07 09:01:29+00:00",
+        "content": "In Srinagar in Indian-administered Kashmir, a road, normally busy with tourists and travellers, lies deserted.\r\nAll flights in and out of the region's main city have been suspended for civilians and … [+432 chars]",
+        "topic": "General"
+    }
+]
